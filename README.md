@@ -11,12 +11,27 @@
 
 
 <table>
+  <th>
+    <td></td>
+    <td>Raw Data</td>
+    <td>Final Data</td>
+  </th>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>資料名稱</td>
+    <td colspan="2">月營收盈餘</td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td>資料期間</td>
+    <td>1988年1月至2023年1月</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>資料範圍</td>
+    <td colspan="2">上市、櫃公司</td>
+  </tr>
+  <tr>
+    <td>資料來源</td>
+    <td colspan="2">TEJ Company DB</td>
   </tr>
 </table>
 
