@@ -1,10 +1,16 @@
 # Monthly Revenue Forecasting
 
-### Raw Data
-資料名稱：月營收盈餘<br/>
-資料期間：1988年1月至2023年1月<br/>
-資料範圍：上市、櫃公司<br/>
-資料來源：TEJ Company DB<br/>
+## Dataset
+
+|Date|Raw Data||
+|---|---|---|
+|資料名稱|月營收盈餘||
+|資料期間|1988年1月至2023年1月||
+|資料範圍|上市、櫃公司||
+|資料來源|TEJ Company DB||
+
+
+## User Guide
 
 |Date|Code|Description|References|
 |---|---|---|---|
