@@ -1,4 +1,4 @@
-# Monthly Revenues Forecasting
+# Monthly Revenue Forecasting
 
 ### Raw Data
 資料名稱：月營收盈餘<br/>
