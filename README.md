@@ -12,7 +12,6 @@
 
 <table>
   <th>
-    <td></td>
     <td>Raw Data</td>
     <td>Final Data</td>
   </th>
