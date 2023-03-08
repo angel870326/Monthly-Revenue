@@ -14,7 +14,7 @@
   <tr>
     <td><strong>資料期間</strong></td>
     <td>1988年1月至2023年1月</td>
-    <td>年1月至2022年12月</td>
+    <td>xxxx年1月至2022年12月</td>
   </tr>
   <tr>
     <td><strong>資料範圍</strong></td>
