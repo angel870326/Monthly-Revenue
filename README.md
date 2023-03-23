@@ -6,23 +6,26 @@
   <th>
     <td><strong>Raw Data</strong></td>
     <td><strong>Final Data</strong></td>
+    <td><strong>通信網路業 (Communications)</strong></td>
   </th>
   <tr>
     <td><strong>資料名稱</strong></td>
-    <td colspan="2">月營收盈餘</td>
+    <td colspan="3">月營收盈餘</td>
   </tr>
   <tr>
     <td><strong>資料期間</strong></td>
     <td>1988年1月至2023年1月</td>
-    <td>xxxx年1月至2022年12月</td>
+    <td>2015年1月至2022年12月</td>
+    <td>2002年1月至2022年12月</td>
   </tr>
   <tr>
     <td><strong>資料範圍</strong></td>
-    <td colspan="2">上市、櫃公司</td>
+    <td colspan="3">上市、櫃公司</td>
   </tr>
   <tr>
     <td><strong>資料來源</strong></td>
-    <td colspan="2">TEJ Company DB</td>
+    <td>TEJ Company DB</td>
+    <td colspan="2">TEJ Company DB & 公開資訊觀測站 (TWSE MOPS)</td>
   </tr>
 </table>
 
@@ -37,7 +40,7 @@
 |~~2023/02/17~~|~~004_data_cleaning_v2~~|~~最初資料清理版本（包含刪除特定產業、刪除缺失過多的年月和公司、中間缺失值補0等）~~||
 |2023/03/13|005_data_cleaning_v1|<ol><li>將中間有缺失值的公司，最新一個月的缺失值以前的月營收皆設為空值</li><li>將清理後的檔案和不需要補值的檔案合併為最終檔案</li></ol>Results: <br>最終所有有缺失值的公司都是從 1988-01 開始連續缺失||
 |2023/03/14|006_營收公告日check|觀察各公司是否有中間月份突然缺失營收公告日者。<br><br>Conclusion: <br>所有上市櫃公司都是從 2013-01 開始才有營收公告日，且沒有中間突然缺失營收公告日者||
-|2023/03/|007_data_cleaning_final_v1|||
+|2023/03/|007_data_cleaning_final_v1|最終資料清理||
 
 
 
