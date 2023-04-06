@@ -62,7 +62,7 @@ $$MAE = \frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|$$
 
 <br>
 
-*   MAE% (MAE / mean of the sum of y_true)
+*   MAE\\% (MAE / mean of the sum of y_true)
 
 $$MAE% = \frac{\frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|}{\frac{1}{n}\sum_{i=1}^n y_i} = \frac{\sum_{i=1}^n|\hat{y}_i - y_i|}{\sum_{i=1}^n y_i}$$
 
@@ -70,7 +70,7 @@ $$MAE% = \frac{\frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|}{\frac{1}{n}\sum_{i=1}^n
 
 *   MAPE (Mean Absolute Percentage Error)
 
-$$MAPE(%) = \frac{1}{n}\sum_{i=1}^n \frac{|\hat{y}_i - y_i|}{y_i}$$
+$$MAPE(\\%) = \frac{1}{n}\sum_{i=1}^n \frac{|\hat{y}_i - y_i|}{y_i}$$
 
 <br>
 
