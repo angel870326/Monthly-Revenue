@@ -47,12 +47,15 @@
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/|010_rnn_lstm_v1|||
 
+  
+<ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
 
-衡量指標：
 
-*   RMSE (Root Mean Square Error)
+## Scores
 
-  $$RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^n(\hat{y}_i - y_i)^2}$$
+|Scores|Formula|
+|---|---|
+|RMSE (Root Mean Square Error)|$$RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^n(\hat{y}_i - y_i)^2}$$|
 
 <br>
 
@@ -77,4 +80,3 @@
 
 
 
-<ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
