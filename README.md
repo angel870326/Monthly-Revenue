@@ -57,7 +57,7 @@
 |---|---|
 |**Root Mean Square Error**|$$RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^n(\hat{y}_i - y_i)^2}$$|
 |**Mean Absolute Error**|$$MAE = \frac{1}{n}\sum_{i=1}^n \|\hat{y}_i - y_i\|$$|
-|**Mean Absolute Error%**|$$MAE\\% = \frac{\frac{1}{n} \sum \|\hat{y}_i - y_i\|}{\frac{1}{n} \sum y_i} = \frac{\sum \|\hat{y}_i - y_i\|}{\sum y_i}$$|
+|**Mean Absolute Error %**|$$MAE\\% = \frac{\frac{1}{n} \sum \|\hat{y}_i - y_i\|}{\frac{1}{n} \sum y_i} = \frac{\sum \|\hat{y}_i - y_i\|}{\sum y_i}$$|
 |**Mean Absolute Percentage Error**|$$MAPE(\\%) = \frac{1}{n}\sum_{i=1}^n \frac{\|\hat{y}_i - y_i\|}{y_i}$$|
 
 
