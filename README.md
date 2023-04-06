@@ -62,9 +62,9 @@ $$MAE = \frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|$$
 
 <br>
 
-*   MAE\\% (MAE / mean of the sum of y_true)
+*   MAE% (MAE / mean of the sum of y_true)
 
-$$MAE% = \frac{\frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|}{\frac{1}{n}\sum_{i=1}^n y_i} = \frac{\sum_{i=1}^n|\hat{y}_i - y_i|}{\sum_{i=1}^n y_i}$$
+$$MAE\\% = \frac{\frac{1}{n}\sum_{i=1}^n|\hat{y}_i - y_i|}{\frac{1}{n}\sum_{i=1}^n y_i} = \frac{\sum_{i=1}^n|\hat{y}_i - y_i|}{\sum_{i=1}^n y_i}$$
 
 <br>
 
