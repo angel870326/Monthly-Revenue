@@ -45,7 +45,8 @@
 |2023/03/23|007_data_cleaning_final_v1|最終資料清理||
 |2023/03/30|008_data_analysis_v1|EDA|<ul><li>Seasonal-Trend decomposition using LOESS (STL) ([link](https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html))</li></ul>|
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
-|2023/04/|010_rnn_lstm_v1|||
+|2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
+|2023/04/|011_rnn_lstm_v1|||
 
   
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
