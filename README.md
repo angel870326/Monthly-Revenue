@@ -53,16 +53,14 @@
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
 
 
-### Function
+## Function
 
 |Date|Code (.ipynb)|Description|References|
 |---|---|---|---|
-|2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 fix fragmented problem (for Comms)||
-|2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*<br>2023.04.08 date and figure size updated for Comms|---|
-|2023.04.09|MonRevPlotForComms|---|---|
+|2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 Fix fragmented problem (for Comms).|-|
+|2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*.<br>2023.04.08 Date and figure size updated for Comms.|-|
+|2023.04.09|MonRevPlotForComms|Do not plot decomposed results.|-|
 
-
-  
 
 
 ## Evaluation
