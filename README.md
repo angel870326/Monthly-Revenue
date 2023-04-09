@@ -46,7 +46,7 @@
 |2023/03/30|008_data_analysis_v1|EDA|<ul><li>Seasonal-Trend decomposition using LOESS (STL) ([link](https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html))</li></ul>|
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
-|2023/04/09|010_rf_xgb_comms_v2|Without decomposed data.<br><ul><li>Plot related: **MonRevPlotForComms.ipynb**<il></ul>||
+|2023/04/09|010_rf_xgb_comms_v2?|Without decomposed data.<br><ul><li>Plot related: **MonRevPlotForComms.ipynb**<il></ul>||
 |2023/04/|011_rnn_lstm_v1|||
 
 
@@ -59,7 +59,7 @@
 |---|---|---|---|
 |2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 Fix fragmented problem (for Comms).|-|
 |2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*.<br>2023.04.08 Date and figure size updated for Comms.|-|
-|2023.04.09|MonRevPlotForComms|Do not plot decomposed results.|-|
+|2023.04.09|MonRevPlotForComms?|Do not plot decomposed results.|-|
 
 
 
