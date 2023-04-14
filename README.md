@@ -84,6 +84,7 @@
           (<a href="https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc" target="_blank">link 2</a>) 
           (<a href="https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network" target="_blank">link 3</a>)
         </li>
+        <li>Time Series Prediction with SimpleRNN (<a href="https://machinelearningmastery.com/understanding-simple-recurrent-neural-networks-in-keras/" target="_blank">link</a>)</li>
         <li>Time Series Prediction with LSTM 
           (<a href="https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/" target="_blank">link 1</a>) 
           (<a href="https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/" target="_blank">link 2</a>) 
@@ -111,8 +112,10 @@
 </table>  
   
 
-<li>名稱 (<a href="" target="_blank">link</a>)</li>
-       
+<li>標題 (<a href="" target="_blank">link</a>)</li>
+<li>標題 (<a href="" target="_blank">link</a>)</li>
+
+
   
   
 
