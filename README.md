@@ -70,7 +70,9 @@
       2023.04.04 Save multiple df results as dict.<br>
       2023.04.05 Add <I>9. Best and Worst Model</I>.<br>
       2023.04.06 Add <I>trainMonthlyRevenue()</I> for training and saving models in advance.<br>
-      2023.04.08 Fix fragmented problem (for Comms).
+      2023.04.08 Fix fragmented problem (for Comms).<br>
+      <br>
+      2023.04.14 Add RNN & LSTM.
     </td>
     <td>
       <ul>
