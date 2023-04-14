@@ -62,16 +62,42 @@
     <td><strong>Description</strong></td>
     <td><strong>References</strong></td>
   </tr>
+  
   <tr>
     <td>2023.04.08</td>
     <td>MonRevForecast</td>
-    <td>2023.04.04 Save multiple df results as dict.<br>
-        2023.04.05 Add <I>9. Best and Worst Model</I>.<br>
-        2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>
-        2023.04.08 Fix fragmented problem (for Comms).
+    <td>
+      2023.04.04 Save multiple df results as dict.<br>
+      2023.04.05 Add <I>9. Best and Worst Model</I>.<br>
+      2023.04.06 Add <I>trainMonthlyRevenue()</I> for training and saving models in advance.<br>
+      2023.04.08 Fix fragmented problem (for Comms).
     </td>
-   
-    
+    <td>
+      <ul>
+        <li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li>
+        <li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li>
+        <li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li>
+        <li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li>
+        <li>Forecast Sales using Machine Learning Algorithms ([link](https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms))</li>
+        <li>Time Series Forecasting with Keras ([link 1](https://towardsdatascience.com/a-quick-deep-learning-recipe-time-series-forecasting-with-keras-in-python-f759923ba64)) ([link 2](https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc)) ([link 3](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network))</li>
+        <li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)) ([link 3](https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py))</li>
+        <li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li>
+      </ul>
+    </td>  
+  </tr>
+  
+  <tr>
+    <td>2023.04.05</td>
+    <td>MonRevPlot</td>
+    <td>2023.04.05 Add <I>9. Best and Worst Model - Feature Importance</I>.<br>2023.04.08 Date and figure size updated for Comms.</td>
+    <td>-</td>
+  </tr>
+  
+  <tr>
+    <td>2023.04.09</td>
+    <td>MonRevPlotForComms?</td>
+    <td>Do not plot decomposed results.</td>
+    <td>-</td>
   </tr>
 
 </table>  
@@ -81,14 +107,11 @@
 |---|---|---|---|
 |2023.04.08|MonRevForecast|
   
-  |<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li><li>Forecast Sales using Machine Learning Algorithms ([link](https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms))</li>
+
   
-  <li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)) ([link 3](https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py))</li><li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li></ul>|
-|2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*.<br>2023.04.08 Date and figure size updated for Comms.|-|
-|2023.04.09|MonRevPlotForComms?|Do not plot decomposed results.|-|
+|2023.04.09|||-|
 
 
-<li>Time Series Forecasting with Keras ([link 1](https://towardsdatascience.com/a-quick-deep-learning-recipe-time-series-forecasting-with-keras-in-python-f759923ba64)) ([link 2](https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc)) ([link 3](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network))</li>
 
   
 
