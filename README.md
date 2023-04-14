@@ -74,7 +74,7 @@
     </td>
     <td>
       <ul>
-        <li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li>
+        <li>RandomForestRegressor (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html">link</a>)</li>
         <li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li>
         <li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li>
         <li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li>
