@@ -78,7 +78,7 @@
         <li>XGBRegressor (<a href="https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor" target="_blank">link</a>)</li>
         <li>SimpleRNN layer (<a href="https://keras.io/api/layers/recurrent_layers/simple_rnn/" target="_blank">link</a>)</li>
         <li>LSTM layer (<a href="https://keras.io/api/layers/recurrent_layers/lstm/" target="_blank">link</a>)</li>
-        <li>Forecast Sales using Machine Learning Algorithms (<a href="https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms" target="_blank">link</a>)</li>
+        <li>Forecast Sales with Machine Learning Algorithms (<a href="https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms" target="_blank">link</a>)</li>
         <li>Time Series Forecasting with Keras 
           (<a href="https://towardsdatascience.com/a-quick-deep-learning-recipe-time-series-forecasting-with-keras-in-python-f759923ba64" target="_blank">link 1</a>) 
           (<a href="https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc" target="_blank">link 2</a>) 
