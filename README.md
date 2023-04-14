@@ -90,6 +90,10 @@
           (<a href="https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/" target="_blank">link 2</a>) 
           (<a href="https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py" target="_blank">link 3</a>)
         </li>
+        <li>Keras: EarlyStopping 
+          (<a href="https://keras.io/api/callbacks/early_stopping/" target="_blank">link 1</a>)
+          (<a href="https://medium.com/zero-equals-false/early-stopping-to-avoid-overfitting-in-neural-network-keras-b68c96ed05d9" target="_blank">link 2</a>)
+        </li>
         <li>Keras: Save training history (<a href="https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object" target="_blank">link</a>)</li>
       </ul>
     </td>  
