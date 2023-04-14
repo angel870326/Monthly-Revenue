@@ -66,7 +66,7 @@
     <td>2023.04.08</td>
     <td>MonRevForecast</td>
     <td>2023.04.04 Save multiple df results as dict.<br>
-        2023.04.05 Add <l>9. Best and Worst Model</l>*.<br>
+        2023.04.05 Add <I>9. Best and Worst Model</I>.<br>
         2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>
         2023.04.08 Fix fragmented problem (for Comms).
     </td>
