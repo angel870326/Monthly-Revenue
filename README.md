@@ -3,11 +3,11 @@
 ## Dataset
 
 <table>
-  <tr>
+  <th>
     <td><strong>Raw Data</strong></td>
     <td><strong>Final Data</strong></td>
     <td><strong>通信網路業 (Communications)</strong></td>
-  </tr>
+  </th>
   <tr>
     <td><strong>資料名稱</strong></td>
     <td colspan="3">月營收盈餘</td>
@@ -56,12 +56,12 @@
 ## Function
 
 <table>
-  <th>
+  <tr>
     <td><strong>Date</strong></td>
     <td><strong>Code (.ipynb)</strong></td>
     <td><strong>Description</strong></td>
     <td><strong>References</strong></td>
-  </th>
+  </tr>
   <tr>
     <td>2023.04.08</td>
     <td>MonRevForecast</td>
