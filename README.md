@@ -47,7 +47,7 @@
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
 |2023/04/09|010_rf_xgb_comms_v2?|Without decomposed data.<br><ul><li>Plot related: **MonRevPlotForComms.ipynb**<il></ul>||
-|2023/04/|011_rnn_lstm_v1|||
+|2023/04/|011_rnn_lstm_v1||<ul><li>SimpleRNN ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
@@ -57,13 +57,12 @@
 
 |Date|Code (.ipynb)|Description|References|
 |---|---|---|---|
-|2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 Fix fragmented problem (for Comms).|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li><li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li></ul>|
+|2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 Fix fragmented problem (for Comms).|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li><li>SimpleRNN ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li><li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/))</li><li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li></ul>|
 |2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*.<br>2023.04.08 Date and figure size updated for Comms.|-|
 |2023.04.09|MonRevPlotForComms?|Do not plot decomposed results.|-|
 
-<li>SimpleRNN ([link](網址))</li><li>LSTM ([link](網址))</li>
 
-  <li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/))</li>
+  
   
   
   
