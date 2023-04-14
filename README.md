@@ -65,32 +65,23 @@
   <tr>
     <td>2023.04.08</td>
     <td>MonRevForecast</td>
+    <td>2023.04.04 Save multiple df results as dict.<br>
+        2023.04.05 Add *9. Best and Worst Model*.<br>
+        2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>
+        2023.04.08 Fix fragmented problem (for Comms).
+    </td>
    
     
   </tr>
-  <tr>
-    <td><strong>資料期間</strong></td>
-    <td>1988年1月至2023年1月</td>
-    <td>2013年1月至2022年12月<br>
-        2015年1月至2022年12月
-    </td>
-    <td>2002年1月至2022年12月</td>
-  </tr>
-  <tr>
-    <td><strong>資料範圍</strong></td>
-    <td colspan="3">上市、櫃公司</td>
-  </tr>
-  <tr>
-    <td><strong>資料來源</strong></td>
-    <td>TEJ Company DB</td>
-    <td colspan="2">TEJ Company DB & 公開資訊觀測站 (TWSE MOPS)</td>
-  </tr>
+
 </table>  
   
   
 |Date|Code (.ipynb)|Description|References|
 |---|---|---|---|
-|2023.04.08|MonRevForecast|2023.04.04 Save multiple df results as dict.<br>2023.04.05 Add *9. Best and Worst Model*.<br>2023.04.06 Add *trainMonthlyRevenue()* for training and saving models in advance.<br>2023.04.08 Fix fragmented problem (for Comms).|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li><li>Forecast Sales using Machine Learning Algorithms ([link](https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms))</li>
+|2023.04.08|MonRevForecast|
+  
+  |<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li><li>Forecast Sales using Machine Learning Algorithms ([link](https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms))</li>
   
   <li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)) ([link 3](https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py))</li><li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li></ul>|
 |2023.04.05|MonRevPlot|2023.04.05 Add *9. Best and Worst Model - Feature Importance*.<br>2023.04.08 Date and figure size updated for Comms.|-|
