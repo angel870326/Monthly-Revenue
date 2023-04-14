@@ -74,14 +74,22 @@
     </td>
     <td>
       <ul>
-        <li>RandomForestRegressor (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html">link</a>)</li>
-        <li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li>
-        <li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li>
-        <li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li>
-        <li>Forecast Sales using Machine Learning Algorithms ([link](https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms))</li>
-        <li>Time Series Forecasting with Keras ([link 1](https://towardsdatascience.com/a-quick-deep-learning-recipe-time-series-forecasting-with-keras-in-python-f759923ba64)) ([link 2](https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc)) ([link 3](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network))</li>
-        <li>Time Series Prediction with LSTM ([link 1](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)) ([link 2](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)) ([link 3](https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py))</li>
-        <li>Keras: Save training history ([link](https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object))</li>
+        <li>RandomForestRegressor (<a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html" target="_blank">link</a>)</li>
+        <li>XGBRegressor (<a href="https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor" target="_blank">link</a>)</li>
+        <li>SimpleRNN layer (<a href="https://keras.io/api/layers/recurrent_layers/simple_rnn/" target="_blank">link</a>)</li>
+        <li>LSTM layer (<a href="https://keras.io/api/layers/recurrent_layers/lstm/" target="_blank">link</a>)</li>
+        <li>Forecast Sales using Machine Learning Algorithms (<a href="https://www.embedded-robotics.com/forecast-sales-using-machine-learning/#comparing-forecast-sales-using-machine-learning-algorithms" target="_blank">link</a>)</li>
+        <li>Time Series Forecasting with Keras 
+          (<a href="https://towardsdatascience.com/a-quick-deep-learning-recipe-time-series-forecasting-with-keras-in-python-f759923ba64" target="_blank">link 1</a>) 
+          (<a href="https://towardsdatascience.com/a-practical-guide-to-rnn-and-lstm-in-keras-980f176271bc" target="_blank">link 2</a>) 
+          (<a href="https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network" target="_blank">link 3</a>)
+        </li>
+        <li>Time Series Prediction with LSTM 
+          (<a href="https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/" target="_blank">link 1</a>) 
+          (<a href="https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/" target="_blank">link 2</a>) 
+          (<a href="https://github.com/yifan-guo-cwru/Time-Series-Prediction-with-LSTM-Recurrent-Neural-Networks-in-Python-with-Keras/blob/master/run.py" target="_blank">link 3</a>)
+        </li>
+        <li>Keras: Save training history (<a href="https://stackoverflow.com/questions/41061457/keras-how-to-save-the-training-history-attribute-of-the-history-object" target="_blank">link</a>)</li>
       </ul>
     </td>  
   </tr>
@@ -102,20 +110,15 @@
 
 </table>  
   
+
+<li>名稱 (<a href="" target="_blank">link</a>)</li>
+       
   
+
 |Date|Code (.ipynb)|Description|References|
 |---|---|---|---|
 |2023.04.08|MonRevForecast|
-  
 
-  
-|2023.04.09|||-|
-
-
-
-  
-
-  
 
 
   
