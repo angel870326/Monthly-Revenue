@@ -46,8 +46,7 @@
 |2023/03/30|008_data_analysis_v1|EDA|<ul><li>Seasonal-Trend decomposition using LOESS (STL) ([link](https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html))</li></ul>|
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
-|2023/04/09|010_rf_xgb_comms_v2?|Without decomposed data.<br><ul><li>Plot related: **MonRevPlotForComms.ipynb**<il></ul>||
-|2023/04/|011_rnn_lstm_v1||<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
+|2023/04/|011_rnn_lstm_v1|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM, including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
@@ -111,13 +110,6 @@
       2023.04.08 Date and figure size updated for Comms.<br>
       2023.04.15 Update 8.1 & 8.2 for RNN and LSTM.
     </td>
-    <td>-</td>
-  </tr>
-  
-  <tr>
-    <td>2023.04.09</td>
-    <td>MonRevPlotForComms?</td>
-    <td>Do not plot decomposed results.</td>
     <td>-</td>
   </tr>
 
