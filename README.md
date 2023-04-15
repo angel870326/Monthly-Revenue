@@ -72,7 +72,9 @@
       2023.04.06 Add <I>trainMonthlyRevenue()</I> for training and saving models in advance.<br>
       2023.04.08 Fix fragmented problem (for Comms).<br>
       <br>
-      2023.04.14 Add RNN & LSTM.
+      2023.04.13 Add <I>5.2 RNN & LSTM</I>.<br>
+      2023.04.14 Add <I>6.3 RNN & LSTM</I>.<br>
+      2023.04.14 Add <I>9.2 RNN & LSTM</I>.
     </td>
     <td>
       <ul>
