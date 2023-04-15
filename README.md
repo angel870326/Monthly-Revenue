@@ -104,7 +104,11 @@
   <tr>
     <td>2023.04.05</td>
     <td>MonRevPlot</td>
-    <td>2023.04.05 Add <I>9. Best and Worst Model - Feature Importance</I>.<br>2023.04.08 Date and figure size updated for Comms.</td>
+    <td>
+      2023.04.05 Add <I>9. Best and Worst Model - Feature Importance</I>.<br>
+      2023.04.08 Date and figure size updated for Comms.<br>
+      2023.04.15 Updated for RNN and LSTM.
+    </td>
     <td>-</td>
   </tr>
   
