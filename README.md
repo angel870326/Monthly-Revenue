@@ -67,14 +67,14 @@
     <td>2023/04/14</td>
     <td>MonRevForecast</td>
     <td>
-      2023/04/04 Save multiple df results as dict.<br>
-      2023/04/05 Add <I>9. Best and Worst Model</I>.<br>
-      2023/04/06 Add <I>trainMonthlyRevenue()</I> for training and saving models in advance.<br>
-      2023/04/08 Fix fragmented problem (for Comms).<br>
+      2023/04/04 - Save multiple df results as dict.<br>
+      2023/04/05 - Add <I>9. Best and Worst Model</I>.<br>
+      2023/04/06 - Add <I>trainMonthlyRevenue()</I> for training and saving models in advance.<br>
+      2023/04/08 - Fix fragmented problem (for Comms).<br>
       <br>
-      2023/04/13 Add <I>5.2 RNN & LSTM</I>.<br>
-      2023/04/14 Add <I>6.3 RNN & LSTM</I>.<br>
-      2023/04/14 Add <I>9.2 RNN & LSTM</I>.
+      2023/04/13 - Add <I>5.2 RNN & LSTM</I>.<br>
+      2023/04/14 - Add <I>6.3 RNN & LSTM</I>.<br>
+      2023/04/14 - Add <I>9.2 RNN & LSTM</I>.
     </td>
     <td>
       <ul>
@@ -107,9 +107,9 @@
     <td>2023/04/05</td>
     <td>MonRevPlot</td>
     <td>
-      2023/04/05 Add <I>9. Best and Worst Model - Feature Importance</I>.<br>
-      2023/04/08 Date and figure size updated for Comms.<br>
-      2023/04/15 Update 8.1 & 8.2 for RNN and LSTM.
+      2023/04/05 - Add <I>9. Best and Worst Model - Feature Importance</I>.<br>
+      2023/04/08 - Date and figure size updated for Comms.<br>
+      2023/04/15 - Update 8.1 & 8.2 for RNN and LSTM.
     </td>
     <td>-</td>
   </tr>
