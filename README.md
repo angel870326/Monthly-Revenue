@@ -48,6 +48,7 @@
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
 |2023/04/16|011_rnn_lstm_v1|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 |2023/04/17|011_rnn_lstm_v2|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mae'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
+|2023/04/18|011_rnn_lstm_v4|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
