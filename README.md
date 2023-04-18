@@ -73,9 +73,9 @@
       <br>
       2023/04/13 - Add <I>5.2 RNN & LSTM</I>.<br>
       2023/04/14 - Add <I>6.3 RNN & LSTM</I>.<br>
-      2023/04/14 - Add <I>5.2 RNN & LSTM</I>.
-      2023/04/16 - Add loss='mae' option in <I>5.2 RNN & LSTM</I>.
-      2023/04/18 - Modify epoch numbers for deflating data in <I>5.2 RNN & LSTM</I>.
+      2023/04/14 - Add <I>5.2 RNN & LSTM</I>.<br>
+      2023/04/16 - Add loss='mae' option in <I>5.2 RNN & LSTM</I>.<br>
+      2023/04/18 - Modify epoch numbers for deflating data in <I>5.2 RNN & LSTM</I>.<br>
       2023/04/18 - Add training data as validation data in <I>5.2 RNN & LSTM</I>.
     </td>
     <td>
