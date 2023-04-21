@@ -47,7 +47,7 @@
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
 |2023/04/16|011_rnn_lstm_v1|RNN & LSTM (loss = 'mse') version 1|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
-|2023/04/19|011_rnn_lstm_v7|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
+|2023/04/19|**011_rnn_lstm_v7**|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
@@ -65,7 +65,7 @@
   
   <tr>
     <td>2023/04/14</td>
-    <td>MonRevForecast</td>
+    <td><strong>MonRevForecast</strong></td>
     <td>
       2023/04/04 - Save multiple df results as dict.<br>
       2023/04/05 - Add <I>9. Best and Worst Model</I>.<br>
@@ -108,7 +108,7 @@
   
   <tr>
     <td>2023/04/05</td>
-    <td>MonRevPlot</td>
+    <td><strong>MonRevPlot</strong></td>
     <td>
       2023/04/05 - Add <I>9. Best and Worst Model - Feature Importance</I>.<br>
       2023/04/08 - Date and figure size updated for Comms.<br>
