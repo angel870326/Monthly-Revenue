@@ -59,7 +59,7 @@
   <tr>
     <td><strong>Date</strong></td>
     <td><strong>Code (.ipynb)</strong></td>
-    <td><strong>Description</strong></td>
+    <td><strong>Records</strong></td>
     <td><strong>References</strong></td>
   </tr>
   
