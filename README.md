@@ -42,7 +42,7 @@
 |~~2023/02/17~~|~~004_data_cleaning_v2~~|~~最初資料清理版本（包含刪除特定產業、刪除缺失過多的年月和公司、中間缺失值補0等）~~|<ul><li>Replace NaN Values with Zeros ([link](https://datatofish.com/replace-nan-values-with-zeros/))</li></ul>|
 |2023/03/13|005_data_cleaning_v1|<ol><li>將中間有缺失值的公司，最新一個月的缺失值以前的月營收皆設為空值</li><li>將清理後的檔案和不需要補值的檔案合併為最終檔案</li></ol>Results: <br>最終所有有缺失值的公司都是從 1988-01 開始連續缺失||
 |2023/03/14|006_營收公告日check|觀察各公司是否有中間月份突然缺失營收公告日者。<br><br>Conclusion: <br>所有上市櫃公司都是從 2013-01 開始才有營收公告日，且沒有中間突然缺失營收公告日者||
-|2023/03/23|007_data_cleaning_final_v1|最終資料清理||
+|2023/03/23|007_data_cleaning_final_v|最終資料清理||
 |2023/03/30|008_data_analysis_v1|EDA|<ul><li>Seasonal-Trend decomposition using LOESS (STL) ([link](https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html))</li></ul>|
 |2023/04/06|**009_randomforest_xgb_v5**|Monthly revenue forecasting results from 2020/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 |2023/04/08|010_rf_xgb_comms_v1|Communications industry monthly revenue forecasting results from 2007/1 to 2022/12 with Random Forest Regressor & XGB Regressor.||
