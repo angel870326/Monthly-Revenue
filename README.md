@@ -81,6 +81,7 @@
       2023/04/18 - Modify epoch numbers for deflating data in <I>5.2 RNN & LSTM</I>.<br>
       2023/04/18 - Add training data as validation data in <I>5.2 RNN & LSTM</I>.<br>
       2023/05/04 - Add industry feature in <I>5. Model Training</I> & <I>6. Predicting and Evaluation</I>.<br>
+      2023/05/05 - Add MinMaxScaler option.<br>
       2023/05/05 - Modify Random Forest Regressor & XGB Regressor.<br>
       2023/05/06 - <I>Add 4.5 Feature Encoding for Industry Data</I>.<br>
     </td>
