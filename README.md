@@ -50,6 +50,11 @@
 |~~2023/04/16~~|~~011_rnn_lstm_v1~~|~~RNN & LSTM version 1<ul><li>loss = 'mse'</li><li>epoch = 100</li><li>no validation set</li></ul>~~|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 |2023/04/19|**011_rnn_lstm_v7**|Monthly revenue forecasting results from 2020/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 |2023/05/08|**011_rnn_lstm_v10**|Monthly revenue forecasting results from 2018/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
+|2023/04/23|**012_rf_xgb_rnn_lstm_v2**|Compare the forecasting results of Random Forest, XGB, RNN & LSTM from 2020/1 to 2022/12.||
+|2023/05/09|**012_rf_xgb_rnn_lstm_v6**|Compare the forecasting results of Random Forest, XGB, RNN & LSTM from 2018/1 to 2022/12.||
+
+
+
 
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
