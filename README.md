@@ -124,7 +124,8 @@
     <td>
       2023/04/05 - Add <I>9. Best and Worst Model - Feature Importance</I>.<br>
       2023/04/08 - Date and figure size updated for Comms.<br>
-      2023/04/15 - Update 8.1 & 8.2 for RNN and LSTM.
+      2023/04/15 - Update 8.1 & 8.2 for RNN and LSTM.<br>
+      2023/05/13 - Update for DNN.<br>
     </td>
     <td>-</td>
   </tr>
