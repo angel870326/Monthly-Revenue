@@ -90,6 +90,7 @@
       2023/05/05 - Modify Random Forest Regressor & XGB Regressor.<br>
       2023/05/06 - <I>Add 4.5 Feature Encoding for Industry Data</I>.<br>
       2023/05/07 - Modify RNN & LSTM architecture.<br>
+      2023.05.13 - Add <I>9.3 Single Model Type (for DNN)<I>.<br>
     </td>
     <td>
       <ul>
