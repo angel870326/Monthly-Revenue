@@ -131,6 +131,7 @@
       2023/04/08 - Date and figure size updated for Comms.<br>
       2023/04/15 - Update 8.1 & 8.2 for RNN and LSTM.<br>
       2023/05/13 - Update for DNN.<br>
+      2023/05/26 - Update for Benchmark.<br>
     </td>
     <td>-</td>
   </tr>
