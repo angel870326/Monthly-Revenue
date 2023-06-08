@@ -52,6 +52,7 @@
 |2023/05/08|**011_rnn_lstm_v10**|Monthly revenue forecasting results from 2018/1 to 2022/12 with RNN & LSTM (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>SimpleRNN layer ([link](https://keras.io/api/layers/recurrent_layers/simple_rnn/))</li><li>LSTM layer ([link](https://keras.io/api/layers/recurrent_layers/lstm/))</li></ul>|
 |2023/04/23|**012_rf_xgb_rnn_lstm_v2**|Compare the forecasting results of Random Forest, XGB, RNN & LSTM from 2020/1 to 2022/12.||
 |2023/05/09|**012_rf_xgb_rnn_lstm_v6**|Compare the forecasting results of Random Forest, XGB, RNN & LSTM from 2018/1 to 2022/12.||
+|2023/05/06|015_industry_v1|Four methods for constructing industry variables||
 |2023/05/13|**016_dnn_v2**|Monthly revenue forecasting results from 2018/1 to 2022/12 with DNN (loss = 'mse'), including predicting results and scores.<br><ul><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>DNN layer ([link](https://keras.io/api/layers/core_layers/dense/))</li></ul>|
 |2023/05/13|**017_rf_xgb_rnn_lstm_dnn_v2**|Compare the forecasting results of Random Forest, XGB, RNN, LSTM & DNN from 2018/1 to 2022/12.||
 |2023/05/19|018_google_trends_v3|Web Scraper: Google Trends data for each company from 2013 to 2022.<br>(t = monthly revenue announcement date)|<ul><li>pytrends ([link1](https://pypi.org/project/pytrends/)) ([link2](https://github.com/GeneralMills/pytrends))</li></ul>|
