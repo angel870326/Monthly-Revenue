@@ -59,6 +59,7 @@
 |2023/05/25|019_benchmark_v1|||
 |2023/05/26|020_benchmark_rf_xgb_rnn_lstm_dnn_v1|||
 |2023/06/02|021_announcement_date_v1|最終資料集各公司 201301-202212 的營收公告日||
+|2023/06/10|022_search_volume_v1|Two methods for constructing internet search volume variables (網路聲量變數). <ul><li>Mean of t-4 to t-1</li><li>t-1</li></ul>||
 
 
 
