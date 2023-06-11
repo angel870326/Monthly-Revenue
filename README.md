@@ -100,6 +100,8 @@
       2023/05/06 - <I>Add 4.5 Feature Encoding for Industry Data</I>.<br>
       2023/05/07 - Modify RNN & LSTM architecture.<br>
       2023/05/13 - Add <I>9.3 Single Model Type<I>.<br>
+      2023/06/11 - Add <I>4.6 Search Volume Data<I>.<br>
+      2023/06/11 - Add search volume feature in <I>5. Model Training</I> & <I>6. Predicting and Evaluation</I>.<br>
     </td>
     <td>
       <ul>
