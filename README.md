@@ -60,7 +60,7 @@
 |2023/05/26|020_benchmark_rf_xgb_rnn_lstm_dnn_v1|||
 |2023/06/02|021_announcement_date_v1|最終資料集各公司 201301-202212 的營收公告日||
 |2023/06/10|022_search_volume_v1|Two methods for constructing internet search volume variables (網路聲量變數). <ul><li>Mean of t-4 to t-1</li><li>t-1</li></ul>||
-|2023/06/11|**023_randomforest_xgb_search_mean_v1**|Monthly revenue forecasting results from 2018/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>Online search volume: Mean of t-4 to t-1.</li><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
+|2023/06/11|**023_randomforest_xgb_search_mean_v1**|Monthly revenue forecasting results from 2018/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>**Online search volume: Mean of t-4 to t-1.**</li><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
 
 
 
