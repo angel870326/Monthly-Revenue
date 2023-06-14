@@ -57,7 +57,7 @@
 |2023/05/13|**017_rf_xgb_rnn_lstm_dnn_v2**|Compare the forecasting results of Random Forest, XGB, RNN, LSTM & DNN from 2018/1 to 2022/12.||
 |2023/05/19|018_google_trends_v3|Web Scraper: Google Trends data for each company from 2013 to 2022. (t = monthly revenue announcement date)|<ul><li>pytrends ([link1](https://pypi.org/project/pytrends/)) ([link2](https://github.com/GeneralMills/pytrends))</li></ul>|
 |2023/05/25|**019_benchmark_v1**|Benchmark of the monthly revenue forecasting results from 2018/1 to 2022/12.<br><ul><li>Growth rate = average growth rate of t-2 to t-1 and t-13 to t-12)</li></ul>||
-|2023/05/26|020_benchmark_rf_xgb_rnn_lstm_dnn_v1|||
+|2023/05/26|**020_benchmark_rf_xgb_rnn_lstm_dnn_v1**|Compare the forecasting results of Benchmark, Random Forest, XGB, RNN, LSTM & DNN from 2018/1 to 2022/12.||
 |2023/06/02|021_announcement_date_v1|最終資料集各公司 201301-202212 的營收公告日||
 |2023/06/10|022_search_volume_v1|Two methods for constructing internet search volume variables (網路聲量變數). <ul><li>Mean of t-4 to t-1</li><li>t-1</li></ul>||
 |2023/06/11|**023_randomforest_xgb_search_mean_v1**|Monthly revenue forecasting results from 2018/1 to 2022/12 with Random Forest Regressor & XGB Regressor, including predicting results, scores and feature importance.<br><ul><li>**Online search volume: Mean of t-4 to t-1.**</li><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>RandomForestRegressor ([link](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html))</li><li>XGBRegressor ([link](https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor))</li></ul>|
