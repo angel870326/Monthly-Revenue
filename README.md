@@ -65,7 +65,7 @@
 |2023/06/12|**027_dnn_search_mean_v3**|Monthly revenue forecasting results from 2018/1 to 2022/12 with DNN (loss = 'mse'), including predicting results and scores.<br><ul><li>**Online search volume: Mean of t-4 to t-1.**</li><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>DNN layer ([link](https://keras.io/api/layers/core_layers/dense/))</li></ul>|
 |2023/06/12|028_dnn_search_t_1_v1|Monthly revenue forecasting results from 2018/1 to 2022/12 with DNN (loss = 'mse'), including predicting results and scores.<br><ul><li>**Online search volume: t-1.**</li><li>Model related: **MonRevForecast.ipynb**</il><li>Plot related: **MonRevPlot.ipynb**<il></ul>|<ul><li>DNN layer ([link](https://keras.io/api/layers/core_layers/dense/))</li></ul>|
 
-
+https://stackoverflow.com/questions/10101141/matplotlib-legend-add-items-across-columns-instead-of-down
 
 <ul><li>標題 ([link](網址))</li><li>標題 ([link](網址))</li></ul>
 
