@@ -110,7 +110,6 @@
       2023/06/11 - Add <I>4.6 Search Volume Data</I>.<br>
       2023/06/11 - Add search volume feature in <I>5. Model Training</I> & <I>6. Predicting and Evaluation</I>.<br>
       2023/06/18 - Modify <I>4.6 Search Volume Data</I> & <I>5. Model Training</I> & <I>6. Predicting and Evaluation</I> for scaled search volume feature.<br>
-
     </td>
     <td>
       <ul>
